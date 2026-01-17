@@ -1,4 +1,3 @@
-```markdown
 # 🕌 Prayer Times PDF Extractor
 
 A Python utility designed to automatically extract prayer time schedules from PDF documents and convert them into structured Excel (`.xlsx`) or CSV formats.
@@ -103,5 +102,3 @@ Your directory should look like this for the script to work best:
 
 * **Python 3.6+**
 * **Libraries:** `PyPDF2`, `pandas`, `openpyxl`
-
-```
